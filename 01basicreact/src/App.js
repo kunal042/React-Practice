@@ -1,9 +1,13 @@
-// import logo from './logo.svg';
-// import './App.css';
+import Chai from './Chai'
 
 function App() {
   return (
-   <h1>Chai aur code || Kunal </h1>
+    <>
+        <Chai />
+
+         <h1>Chai aur code || Kunal </h1>
+    </>
+
   );
 }
 
